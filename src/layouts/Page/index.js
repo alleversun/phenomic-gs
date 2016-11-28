@@ -14,6 +14,8 @@ const Page = (
     __url,
     head,
     body,
+    header,
+    footer,
     children,
   },
   {
@@ -48,12 +50,14 @@ const Page = (
         title={ metaTitle }
         meta={ meta }
       />
+      { header }
       {
         isLoading
         ? <Loading />
         : <BodyContainer>{ body }</BodyContainer>
       }
       { children }
+      { footer }
     </div>
   )
 }
@@ -64,7 +68,9 @@ Page.propTypes = {
   __filename: PropTypes.string,
   __url: PropTypes.string,
   head: PropTypes.object.isRequired,
-  body: PropTypes.string
+  body: PropTypes.string,
+  header: PropTypes.element,
+  footer: PropTypes.element
 }
 
 Page.contextTypes = {
