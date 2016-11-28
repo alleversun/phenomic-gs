@@ -19,12 +19,3 @@ const StatelessComponent = (props) => {
     </div>
   )
 }
-
-// ...
-
-  return (
-    <StatelessComponent>
-      Example of child
-    </StatelessComponent>
-  )
-```
