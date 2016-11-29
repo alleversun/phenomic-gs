@@ -1,6 +1,6 @@
 import React, { PropTypes } from "react"
 
-import LatestPosts from "../../components/LatestPosts"
+import LatestProjects from "../../components/LatestProjects"
 import Page from "../Page"
 
 const Project = (props) => {
@@ -24,7 +24,7 @@ const Project = (props) => {
       }
     >
       <hr />
-      <LatestPosts />
+      <LatestProjects />
     </Page>
   )
 }
