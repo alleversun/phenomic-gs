@@ -3,7 +3,7 @@
 }
 
 .header {
-  /*position: absolute;*/
+  position: fixed;
   /* stretch */
   left: 0;
   right: 0;

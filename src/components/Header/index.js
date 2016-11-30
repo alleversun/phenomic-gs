@@ -14,7 +14,7 @@ class Header extends React.Component {
   }
 
   render(){
-    let menu = [
+    const menu = [
       {url: '/', label: 'Home'},
       {url: 'process', label: 'Process'},
       {url: 'projects', label: 'Projects'},
