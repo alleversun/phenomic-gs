@@ -13,7 +13,7 @@ cta:
 	  <div class="dtc-ns center tc tr-ns mw4 mw100-ns pv2 pv4-ns pr0-m pl5-m">
 	    <img src="http://res.cloudinary.com/dqxgqtp5u/image/upload/v1480222212/animate_a90jol_1_mioh99.png" />
 	  </div>
-	  <div class="dtc-ns v-mid tr-ns ph3 ph5-m pr0-l pb3 pb2-ns">
+	  <div class="dtc-ns v-mid tr-ns ph3 pb3 pb2-ns">
 	    <h1 class="gold f2 f1-ns mt0 mb1 ttu"><small class="purple db-ns">Our</small> Soul</h1>
 	    <p class="black-70 lh-copy">We'll keep this simple. We love people and we love media. We're an international team of makers who create strategy and creative solutions for brands with soul. We know that brands are some of the greatest influencers in today’s society, so if we can help build better brands we can help make the world a little bit better. Our goal as Ottawa's creative branding agency is to spark a love affair between brands and their target audience. Let the romance begin! #GDZSoul</p>
 	  </div>
