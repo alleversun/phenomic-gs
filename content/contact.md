@@ -13,10 +13,10 @@ cta:
 <section class="banner">
 <div class="mw9 center cf">
   <div class="fl w-100 w-50-ns bg-near-white tc">
-    <h1>Column One</h1>
+    <h1>Column One 1</h1>
   </div>
   <div class="fl w-100 w-50-ns bg-light-gray tc">
-    <h1>Column Two</h1>
+    <h1>Column Two 2</h1>
   </div>
 </div>
 </section>
