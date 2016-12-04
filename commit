@@ -1,0 +1,4 @@
+#!/bin/bash
+# My first script
+~/bin/git add -A
+~/bin/git commit -m "Latest update"
