@@ -6,7 +6,7 @@ description: As Ottawa's creative branding agency, we're an international team o
   <section class="bg-near-white">
     <article class="mw8 center cf">
       <div class="fl w-100 w-50-ns tc">
-        <img src="http://res.cloudinary.com/dqxgqtp5u/image/upload/v1480185685/animate_a90jol.png" />
+        <img src="http://res.cloudinary.com/dqxgqtp5u/image/upload/v1480222212/animate_a90jol_1_mioh99.png" />
       </div>
       <div class="fl w-100 w-50-ns tr ph5-l">
         <h1 class="gold"><small class='purple db'>Our</small> Soul</h1>
