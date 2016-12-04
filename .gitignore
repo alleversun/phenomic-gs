@@ -7,3 +7,6 @@ dist
 
 # bash script
 build
+
+# error log
+error_log
