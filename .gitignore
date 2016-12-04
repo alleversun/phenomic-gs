@@ -5,8 +5,9 @@ node_modules
 # phenomic build
 dist
 
-# bash script
-build
+# bash scripts
+commit
+push
 
 # error log
 error_log
